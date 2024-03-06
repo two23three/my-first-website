@@ -1,0 +1,15 @@
+button
+{
+display:inline-block;
+color: red;
+height: 50px;
+width: 210px;
+background-color: black;
+
+}
+body {
+    background-color:burlywood;
+}
+table,th,td{
+    border: 1px solid black;
+}
